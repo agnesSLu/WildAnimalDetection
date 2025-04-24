@@ -17,6 +17,12 @@ Shihua Lu
 
 https://drive.google.com/drive/u/0/folders/1t92qH4GkPS0DCvu4kTjaIQmelPtetGgl
 
+## Dataset
+1. African Wildlife (manually input YOLO format): https://www.kaggle.com/datasets/biancaferreira/african-wildlife 
+
+2. Wild animals: https://www.kaggle.com/datasets/vishweshsalodkar/wild-animals 
+
+3. Wild animal images: https://www.kaggle.com/datasets/whenamancodes/wild-animals-images
 
 ## Getting Started
 
