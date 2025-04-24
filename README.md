@@ -7,9 +7,16 @@ buffalo, elephant, rhino, zebra, cheetah, lion, tiger, fox, wolf, hyena
 
 ![Interface](interface.png)
 
-## Link to demo
+## Team member
+Chuhan Ren
+
+Shihua Lu
+
+
+## Link to presentation and demo
 
 https://drive.google.com/drive/u/0/folders/1t92qH4GkPS0DCvu4kTjaIQmelPtetGgl
+
 
 ## Getting Started
 
@@ -23,7 +30,7 @@ https://drive.google.com/drive/u/0/folders/1t92qH4GkPS0DCvu4kTjaIQmelPtetGgl
 pip install gradio ultralytics opencv-python
 ```
 
-4. Upload video to detect wild animals:
+4. Upload video to detect wild animals (slow):
 
 ```
 cd app
@@ -45,3 +52,5 @@ For now can access:
 https://4538bd0a6383279858.gradio.live/
 
 Will deploy to Hugging Face in the future
+
+
